@@ -34,8 +34,7 @@ abline(v=head(which(abs(scores-bm.score) < 0.0001), 1), col="blue")
 abline(v=which(scores == my.score))
 ```
 
-!["plot"](https://raw.githubusercontent.com/phil8192/kaggle-lmgpip/scores.png)
-
+!["plot"](https://raw.githubusercontent.com/phil8192/kaggle-lmgpip/master/scores.png)
 
 Notes
 -----
